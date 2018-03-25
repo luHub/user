@@ -3,6 +3,9 @@
 .classpath
 .project
 
+# sbteclipse plugin
+.target
+
 # Compiled class file
 *.class
 
